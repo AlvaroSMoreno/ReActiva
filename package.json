@@ -1,23 +1,21 @@
 {
-  "name": "reactiva",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "dependencies": {
-    "next": "^9.3.4",
-    "next-images": "^1.4.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "react-favicon": "0.0.18",
-    "react-markdown": "^4.3.1"
-  },
-  "devDependencies": {},
+  "name": "with-passport",
   "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start"
   },
-  "keywords": [],
-  "author": "",
+  "dependencies": {
+    "@hapi/iron": "6.0.0",
+    "cookie": "0.4.0",
+    "express": "4.17.1",
+    "next": "latest",
+    "passport": "0.4.1",
+    "passport-local": "1.0.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-typed": "^1.2.0",
+    "swr": "0.1.16"
+  },
   "license": "ISC"
 }

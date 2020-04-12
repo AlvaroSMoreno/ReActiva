@@ -1,6 +1,11 @@
-# ReActiva
-Servicio de Recompensas para usuario, promoción de negocios locales con responsabilidad social.
+# Passport.js Fork de Nextjs Repo
 
-Primer test jeje :)
+This example show how to use [Passport.js](http://www.passportjs.org) with Next.js. The example features cookie based authentication with username and password.
 
-https://reactiva.now.sh/
+Fork del repo original de nextjs/passportjs
+
+## trabajando...
+
+Por el momento apenas estoy viendo la integración de api routes para validar usuarios (en vez de tener una BD)
+
+
