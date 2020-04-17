@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Alvaro Moreno",
+        "user": "alvaro.moreno",
+        "password": "qwerty",
+        "type": "buy",
+        "company": ""
+    },
+    {
+        "name": "Alejandro Ruiz",
+        "user": "alejandro.ruiza",
+        "password": "qwerty",
+        "type": "sell",
+        "company": "CONADI"
+    },
+    {
+        "name": "Marian Meza",
+        "user": "marian.meza",
+        "password": "qwerty",
+        "type": "sell",
+        "company": "Transpay"
+    },
+    {
+        "name": "Jose Ayala",
+        "user": "jose.ayala",
+        "password": "qwerty",
+        "type": "buy",
+        "company": ""
+    },
+    {
+        "name": "Juan Terrazas",
+        "user": "juan.terrazas",
+        "password": "qwerty",
+        "type": "sell",
+        "company": "3DTech"
+    },
+    {
+        "name": "Admin",
+        "user": "admin",
+        "password": "admin",
+        "type": "admin"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "empresa": "3DTech",
+        "ventas_fin": 100,
+        "ventas_actual": 15,
+        "clientes_fin": 25,
+        "clientes_actual": 2,
+        "img":"https://scontent.ftij3-2.fna.fbcdn.net/v/t1.15752-9/92748353_546349386073014_4072344138727555072_n.png?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=HgEgprjEMRMAX-wRV_D&_nc_ht=scontent.ftij3-2.fna&oh=fa9ae68868c4cfca05788a8b7d115699&oe=5EBE3A02",
+        "descripcion": "Especialistas en servicio e impresion 3D. Se usan y utilizan diversas tecnologias como FDM, SLA!"
+    },
+    {
+        "empresa": "UEYA",
+        "ventas_fin": 20000,
+        "ventas_actual": 5000,
+        "clientes_fin": 1000,
+        "clientes_actual": 150,
+        "img":"https://scontent.ftij3-2.fna.fbcdn.net/v/t1.0-9/46724549_102201530807668_1595279900321775616_n.jpg?_nc_cat=103&_nc_sid=85a577&_nc_ohc=seZFMl4e1n8AX-pg5Zh&_nc_ht=scontent.ftij3-2.fna&oh=8f66d5ae2b53115d4ff09c1d55b818d4&oe=5EBF5991",
+        "descripcion": "Servicio de lavado de autos a domicilio, en el cual se apoya a la persona que lava el carro a ahorrar dinero para sus estudios."
+    },
+    {
+        "empresa": "OXXO",
+        "ventas_fin": 5000,
+        "ventas_actual": 4700,
+        "clientes_fin": 1000,
+        "clientes_actual": 950,
+        "img":"https://scontent.ftij3-2.fna.fbcdn.net/v/t1.15752-9/48394461_1946155578825331_1428687030967074816_n.png?_nc_cat=107&_nc_sid=b96e70&_nc_ohc=buiYySnRrpoAX9ud9a4&_nc_ht=scontent.ftij3-2.fna&oh=d40336db7345d1125c0bbd3b5109881f&oe=5EBED495",
+        "descripcion": "Venta de alimentos y servicios de uso general para la población mexicana!"
+    },
+    {
+        "empresa": "CONADI",
+        "ventas_fin": 500,
+        "ventas_actual": 250,
+        "clientes_fin": 500,
+        "clientes_actual": 250,
+        "img":"https://www.conadi.net/img/conadi-logo-blanco.png",
+        "descripcion": "Empresa de consultoria de software empresarial y contable, puntos de ventas, y proyectos de tecnologia!"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Impresion 3D 2x1",
+        "body": "En el pedido de una pieza para impresión 3D, la segunda (igual o más chica) sale gratis!",
+        "date": "03/05/2020",
+        "img": "https://www.masquenegocio.com/wp-content/uploads/2014/02/3D-impresion-874x492.jpg",
+        "empresa": "3DTech"
+    },
+    {
+        "title": "20% Descuento en Servicio",
+        "body": "Tienes un impresora 3D averiada, o le falta mantenimiento? Somos tu solucion!",
+        "date": "14/10/2020",
+        "img": "https://3dlab.eant.tech/img/reparacion_impresoras_3d.jpg",
+        "empresa": "3DTech"
+    },
+    {
+        "title": "Lavado de Auto Gratis",
+        "body": "Te llevas un lavado de un carro chico gratis en la plataforma de UEYA!",
+        "date": "15/06/2020",
+        "img": "https://assets.entrepreneur.com/content/3x2/2000/20170327170002-lavado-autos.jpeg",
+        "empresa": "UEYA"
+    },
+    {
+        "title": "Asesoría Gratuita",
+        "body": "Te asesoramos en cuestion se software y Puntos de Ventas para tu negocio, u oficina.",
+        "date": "28/09/2020",
+        "img": "https://www.smartattitude.es/wp-content/uploads/2018/06/servicios-asesoria-gratis.jpg",
+        "empresa": "CONADI"
+    },
+    {
+        "title": "0 Comisiones en Transaccion",
+        "body": "En tu primera transacción o movimiento en Transpay, no pagues comision!",
+        "date": "25/04/2020",
+        "img": "https://image.shutterstock.com/image-vector/people-sending-receiving-money-wireless-260nw-465600824.jpg",
+        "empresa": "Transpay"
+    }
+]
