@@ -8,7 +8,7 @@
   "dependencies": {
     "@hapi/iron": "6.0.0",
     "bootstrap": "^4.4.1",
-    "cookie": "0.4.0",
+    "cookie": "0.7.0",
     "next": "latest",
     "next-connect": "0.6.1",
     "passport": "0.4.1",
